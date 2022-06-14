@@ -39,12 +39,11 @@ _/decks/1/edit_
 ![editdeck](./screenshots/EditDeck.png)
 <br>
 
-_/decks/1/study_
-Front Side 
+_/decks/1/study (Front Side)_
 ![studydeck](./screenshots/StudyDeck.png)
 <br>
 
-Back Side
+_/decks/1/study (Back Side)_
 ![studydeckflipped](./screenshots/StudyDeckFlipped.png)
 <br>
 
