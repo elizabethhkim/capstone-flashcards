@@ -21,6 +21,6 @@ REST API JSON Server
 
 ## Screenshots
 
-_/_
+_Home Page_
 ![home](./screenshots/Home.png)
 <br>
