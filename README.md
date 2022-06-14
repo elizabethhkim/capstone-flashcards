@@ -1,5 +1,7 @@
 # Thinkful-Flashcard-App
 
+Live app: https://liz-flashcards-app.herokuapp.com/
+
 Flash card application (Flashcard-o-matic) created to help students study online. Teachers will use this application to create decks of flash cards and students will study those decks. 
 
 ## Features
@@ -24,3 +26,31 @@ REST API JSON Server
 _Home Page_
 ![home](./screenshots/Home.png)
 <br>
+
+_/decks/new_
+![addcard](./screenshots/AddCard.png)
+<br>
+
+_/decks/1_
+![viewdeck](./screenshots/ViewDeck.png)
+<br>
+
+_/decks/1/edit_
+![editdeck](./screenshots/EditDeck.png)
+<br>
+
+_/decks/1/study_
+Front Side 
+![studydeck](./screenshots/StudyDeck.png)
+<br>
+
+Back Side
+![studydeckflipped](./screenshots/StudyDeckFlipped.png)
+<br>
+
+_/decks/1/cards/new_
+![addcard](./screenshots/AddCard.png)
+<br>
+
+_/decks/1/cards/1/edit_
+![editcard](./screenshots/EditCard.png)
