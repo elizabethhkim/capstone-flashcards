@@ -10,14 +10,14 @@ Permits the user to create flashcard decks to study. Users can edit cards on the
 
 ## Tech Stack 
 
-#### Front-end
+### Front-end:
 
 HTML
 Bootstrap
 JavaScript
 React
 
-#### Back-end
+### Back-end:
 
 REST API JSON Server 
 
